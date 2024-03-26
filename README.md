@@ -1,1 +1,1 @@
-# StructuralGenomicsConsortium-CNP37-CHIKV-Protease-HTS-non-covalent
+# CNP37-CHIKV-Protease-HTS-non-covalent
